@@ -1,8 +1,3 @@
-# Installation
-
-1. Mettez le token de votre bot dans utils/login.js.
-2. Mettez votre ID dans owner dans config.json.
-
-# Crédits
-
-Tous droits réservés à Emanuel F.
+![Logo](https://i.imgur.com/AKQkn8L.png)
+![Logo](https://i.imgur.com/takn6n1.png)
+![Logo](https://i.imgur.com/AjjWK6R.png)

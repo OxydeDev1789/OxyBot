@@ -1,7 +1,7 @@
 {
-  "name": "Crowbot-Remade",
-  "version": "1.5",
-  "description": "Crowbot-Remade Fix",
+  "name": "OxyBot",
+  "version": "1.0.2",
+  "description": "OxyBot - Bot Discord Multifonctions Français",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

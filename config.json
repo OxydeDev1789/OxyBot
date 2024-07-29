@@ -1,0 +1,11 @@
+{
+    "color": "#0A1F56",
+    "prefix": "+",
+    "name": "Oxybot",
+    "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
+    "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
+    "defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
+    "owner": [
+        "Votre ID ici"
+    ]
+}

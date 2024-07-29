@@ -23,7 +23,7 @@ module.exports = {
 			if (args[0] === "add") {
 				const emoji = args[1];
 
-				if (!emoji) return message.channel.send('');
+				if (!emoji) return message.channel.send(`Ceci n'est pas un emoji`);
 
 				let customemoji = Discord.Util.parseEmoji(emoji);
 				if (!customemoji.id) return message.channel.send(`Je n'est pas accès à cette emoji.`);
